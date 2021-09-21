@@ -4,7 +4,7 @@
 
 
 
-I am full stack web developer is a person who can develop both client and server software.
+I am full stack web developer.Is a person who can develop both client and server software.
 
 In addition to mastering HTML and CSS, i also knows how to:
 
