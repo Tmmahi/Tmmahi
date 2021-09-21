@@ -1,6 +1,7 @@
+![I am web developer ](https://raw.githubusercontent.com/Tmmahi/mahi.github.io/main/assets/img/20210921_224236.jpg)
 ### Hi there 👋, my name is Mahi
 #### I am web developer 
-![I am web developer ](https://raw.githubusercontent.com/Tmmahi/mahi.github.io/main/assets/img/20210921_224236.jpg)
+
 
 
 I am full stack web developer is a person who can develop both client and server software.
