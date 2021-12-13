@@ -18,7 +18,6 @@ CSS
 Bootstrap
 JavaScript
 React
-MEAN stack: JavaScript - MongoDB - Express - AngularJS - Node.js
 
 
 Skills:   HTML / CSS / JS / BOOTSTRAP / MERN
