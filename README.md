@@ -4,11 +4,11 @@
 
 
 
-I am full stack web developer.Is a person who can develop both client and server software.
+I am full stack web developer.Is a person who can develope both client and server software.
 
 In addition to mastering HTML and CSS, i also knows how to:
 
-Program a browser (like using JavaScript, React)
+Program a browser (like using JavaScript, React)<br>
 Program a server ( Node)
 Program a database (MongoDB)
 Client Software
