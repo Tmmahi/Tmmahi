@@ -1,4 +1,4 @@
-![I am web developer ]([https://raw.githubusercontent.com/Tmmahi/mahi.github.io/main/assets/img/1633670437572%20(1).jpg](https://raw.githubusercontent.com/Tmmahi/mahi.github.io/main/assets/img/20230611_114549.jpg))
+![I am web developer ][(https://raw.githubusercontent.com/Tmmahi/mahi.github.io/main/assets/img/1633670437572%20(1).jpg)]
 ### Hi there 👋, my name is Mahi
 #### I am web developer 
 
